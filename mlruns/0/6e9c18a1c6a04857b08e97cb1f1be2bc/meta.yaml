@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anshu/Desktop/datascienceproject/mlruns/0/6e9c18a1c6a04857b08e97cb1f1be2bc/artifacts
+end_time: 1729419861263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e9c18a1c6a04857b08e97cb1f1be2bc
+run_name: brawny-penguin-42
+run_uuid: 6e9c18a1c6a04857b08e97cb1f1be2bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729419855661
+status: 3
+tags: []
+user_id: anshu
